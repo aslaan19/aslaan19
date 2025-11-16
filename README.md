@@ -35,13 +35,7 @@ Hi there! I'm **Abdullah**, a passionate developer who loves to build amazing pr
 ### 🔥 GitHub Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aslaan19&theme=dark)](https://git.io/streak-stats)
-## 🌟 Featured Projects
 
-Here are some of my favorite projects that I've worked on:
-
-- **[Aslanitory](https://github.com/aslaan19/project1)** ...
-- **[GYmPro](https://github.com/aslaan19/project2)** - A brief description of the project.
-- **[what is this](https://github.com/aslaan19/project3)** - A brief description of the project.
 
 ## 📫 Let's Connect!
 
