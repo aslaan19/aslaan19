@@ -1,6 +1,6 @@
 # Hi, I'm Abdullah 👋
 
-### Software Developer | Game Developer | Web & App Enthusiast
+### Software Developer  | Web & App Enthusiast
 
 I'm a passionate developer who enjoys building creative, scalable, and user-friendly digital experiences.  
 I work across game development, web development, and mobile applications, using modern technologies to turn ideas into real projects.
