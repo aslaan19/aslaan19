@@ -9,7 +9,6 @@ I work across game development, web development, and mobile applications, using 
 
 ## 🚀 About Me
 
-- 🎮 Game development enthusiast with experience in **Unity** and **C#**
 - 🌐 Building modern web apps using **React**, **Next.js**, and **TypeScript**
 - 📱 Exploring mobile development with **Dart**
 - 🔥 Working with backend and cloud tools like **Firebase** and **Heroku**
@@ -81,7 +80,6 @@ I work across game development, web development, and mobile applications, using 
 
 I'm currently focused on improving my skills in:
 
-- Advanced Unity development
 - Full-stack web development
 - TypeScript and modern frontend architecture
 - Firebase-powered applications
